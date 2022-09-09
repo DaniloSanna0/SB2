@@ -1,0 +1,13 @@
+gestione dispositivi
+
+models
+
+dispositivi -> una classe con una tipo enum smartfone tablet laptop
+				stato enum disponibile assegnato manutezione dismesso
+				id 
+				
+utente -> username name cognome email id
+
+metodi
+
+rest-> get put delte patch post
